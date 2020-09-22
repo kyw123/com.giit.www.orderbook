@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="shrio_helloword:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/shrio_helloword_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="shrio_helloword/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="shrio_helloword" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../javaee-tutorial-master/com.giit.www.orderbook.iml" filepath="$PROJECT_DIR$/../javaee-tutorial-master/com.giit.www.orderbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro/shiro.iml" filepath="$PROJECT_DIR$/../shiro/shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro-a/shiro-a.iml" filepath="$PROJECT_DIR$/../shiro-a/shiro-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-demo.iml" filepath="$PROJECT_DIR$/shiro-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro-vue-master/shiro-vue-master.iml" filepath="$PROJECT_DIR$/../shiro-vue-master/shiro-vue-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringMVC-Mybatis-Shiro-redis-0.2-master/shiro.demo.iml" filepath="$PROJECT_DIR$/../SpringMVC-Mybatis-Shiro-redis-0.2-master/shiro.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiro_maven/shiro_maven.iml" filepath="$PROJECT_DIR$/../shiro_maven/shiro_maven.iml" />
+    </modules>
+  </component>
+</project>

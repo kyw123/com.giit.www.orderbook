@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../shiro-a" />
+    <file type="web" url="file://$PROJECT_DIR$/../javaee-tutorial-master" />
+    <file type="web" url="file://$PROJECT_DIR$/../Shiro" />
+    <file type="web" url="file://$PROJECT_DIR$/../shiro-a" />
+    <file type="web" url="file://$PROJECT_DIR$/../Shiro_hwork" />
+    <file type="web" url="file://$PROJECT_DIR$/../Shirohehuan" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpringMVC-Mybatis-Shiro-redis-0.2-master" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../shiro_maven/pom.xml" />
+        <option value="$PROJECT_DIR$/../Shiro_hwork/pom.xml" />
+        <option value="$PROJECT_DIR$/../shiro-a/pom.xml" />
+        <option value="$PROJECT_DIR$/../../shiro-a/pom.xml" />
+        <option value="$PROJECT_DIR$/../Shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpringMVC-Mybatis-Shiro-redis-0.2-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../javaee-tutorial-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../shiro-a/out" />
+  </component>
+</project>
